@@ -1,0 +1,28 @@
+:root {
+    --preto-1: #121212;
+    --cinza-1: #8a898a;
+    --cinza-2: #e6e6e6;
+    --azul-1: #0069ff;
+    --azul-2: #004bff;
+    --branco: #ffffff;
+}
+
+.cor-preto-1 {
+    color: var(--preto-1);
+}
+
+.cor-cinza-1 {
+    color: var(--cinza-1);
+}
+
+.cor-cinza-2 {
+    color: var(--cinza-2);
+}
+
+.cor-azul-1 {
+    color: var(--azul-1);
+}
+
+.cor-branco-1 {
+    color: var(--branco);
+}
