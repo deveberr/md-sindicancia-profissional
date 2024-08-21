@@ -9,3 +9,12 @@
 
 /* home */
 @import "./home/introducao.css";
+
+/* serviços lista */
+@import "./servicos/servicos-lista.css";
+
+/* barra */
+@import "./barra/barra.css";
+
+/* quem somos */
+@import ".//home/quem-somos.css";
