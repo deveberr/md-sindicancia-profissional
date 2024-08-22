@@ -28,7 +28,7 @@
     padding-bottom: 22px;
     overflow-x: auto;
     overflow-y: hidden;
-    -webkit-overflow-scrolling: touch;
+    /* -webkit-overflow-scrolling: touch; */
 }
 
 .servicos-lista ul li {
