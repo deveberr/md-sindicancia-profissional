@@ -1,6 +1,7 @@
 .servicos-lista {
     padding-top: 120px;
     padding-bottom: 80px;
+    overflow: hidden;
 }
 
 .servicos-lista h2 {
@@ -26,6 +27,8 @@
     gap: 22px;
     padding-bottom: 22px;
     overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
 }
 
 .servicos-lista ul li {
