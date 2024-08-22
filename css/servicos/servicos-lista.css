@@ -25,9 +25,12 @@
     display: flex;
     gap: 22px;
     padding-bottom: 22px;
+    overflow-x: auto;
 }
 
 .servicos-lista ul li {
+    flex: 1;
+    min-width: 372px;
     width: 372px;
     height: 387px;
     padding: 40px;
@@ -67,5 +70,12 @@
 @media (max-width: 600px) {
     .servicos-lista {
         padding-top: 60px;
+    }
+}
+
+@media (max-width: 800px) {
+    .servicos-lista {
+        padding-top: 60px;
+        padding-bottom: 60px;
     }
 }
