@@ -61,4 +61,10 @@
     .font-1-xxl {
         font-size: 32px;
     }
+    .font-1-xl-b {
+        font: 600 1.125rem / 1.5 "Poppins", sans-serif;
+    }
+    .font-2-l {
+        font: 400 1rem / 1.33 "Roboto", sans-serif;
+    }
 }

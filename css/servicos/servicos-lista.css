@@ -28,12 +28,12 @@
     padding-bottom: 22px;
     overflow-x: auto;
     overflow-y: hidden;
-    /* -webkit-overflow-scrolling: touch; */
+    -webkit-overflow-scrolling: touch;
 }
 
 .servicos-lista ul li {
     flex: 1;
-    min-width: 372px;
+    min-width: 332px;
     width: 372px;
     height: 387px;
     padding: 40px;
