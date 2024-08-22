@@ -31,6 +31,10 @@
     -webkit-overflow-scrolling: touch;
 }
 
+.servicos-lista ul:last-child {
+    padding-top: 22px;
+}
+
 .servicos-lista ul li {
     flex: 1;
     min-width: 342px;
