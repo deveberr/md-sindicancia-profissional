@@ -3,6 +3,7 @@
 @import "./utilidades/cores.css";
 
 @import "./global/header.css";
+@import "./global/footer.css";
 
 /* utilidades */
 @import "./utilidades/componentes.css";
@@ -17,4 +18,7 @@
 @import "./barra/barra.css";
 
 /* quem somos */
-@import ".//home/quem-somos.css";
+@import "./home/quem-somos.css";
+
+/* contato */
+@import "./home/contato.css";

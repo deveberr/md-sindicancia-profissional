@@ -2,6 +2,7 @@
     --preto-1: #121212;
     --cinza-1: #8a898a;
     --cinza-2: #e6e6e6;
+    --cinza-3: #cccccc;
     --azul-1: #0069ff;
     --azul-2: #004bff;
     --branco: #ffffff;
@@ -17,6 +18,10 @@
 
 .cor-cinza-2 {
     color: var(--cinza-2);
+}
+
+.cor-cinza-3 {
+    color: var(--cinza-3);
 }
 
 .cor-azul-1 {

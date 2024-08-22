@@ -6,7 +6,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 32px;
-    padding-top: 80px;
+    padding-bottom: 120px;
 }
 
 .quem-somos-imagem img {
