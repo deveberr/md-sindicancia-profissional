@@ -89,3 +89,10 @@
         border-radius: 0 0 12px 12px;
     }
 }
+
+@media (max-width: 600px) {
+    .contato-bg {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+}

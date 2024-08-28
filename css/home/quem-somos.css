@@ -17,8 +17,7 @@
 }
 
 .quem-somos-conteudo {
-    padding-top: 81px;
-    padding-bottom: 79px;
+    /* padding-top: 81px; */
 }
 
 .quem-somos-conteudo h2 {
@@ -32,10 +31,10 @@
     .quem-somos {
         grid-template-columns: 1fr;
         padding-top: 0;
+        padding-bottom: 60px;
     }
     .quem-somos-conteudo {
         padding-top: 60px;
-        padding-bottom: 60px;
     }
     .quem-somos-conteudo h2 {
         color: var(--branco);
