@@ -1,4 +1,5 @@
 .introducao-bg {
+    padding-top: 120px;
     background-color: var(--branco);
     box-shadow: inset 0 -120px var(--branco);
 }
