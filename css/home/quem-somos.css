@@ -27,15 +27,16 @@
 
 @media (max-width: 800px) {
     .quem-somos-bg {
+        padding-top: 0;
         background-color: var(--preto-1);
     }
     .quem-somos {
         grid-template-columns: 1fr;
         padding-top: 0;
-        padding-bottom: 60px;
+        padding-bottom: 40px;
     }
     .quem-somos-conteudo {
-        padding-top: 60px;
+        padding-top: 40px;
     }
     .quem-somos-conteudo h2 {
         color: var(--branco);
