@@ -17,12 +17,8 @@
     object-position: left;
 }
 
-.quem-somos-conteudo {
-    padding-top: 24px;
-}
-
 .quem-somos-conteudo h2 {
-    margin-bottom: 32px;
+    margin-bottom: 12px;
 }
 
 @media (max-width: 800px) {
